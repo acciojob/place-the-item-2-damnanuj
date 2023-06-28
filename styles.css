@@ -19,7 +19,7 @@
   background-color: green;
  }
 
- .container{
+ .holder{
   display: flex;
   flex-direction: row;
   
